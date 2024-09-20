@@ -1,6 +1,7 @@
-<p align="center" style="color:red;">
+# 
+**<p align="center" style="color:red;">
     This text is centered and red!
-</p>
+    </p>**
 
 # findmyclothes-API
 
