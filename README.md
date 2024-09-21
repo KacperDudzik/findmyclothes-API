@@ -7,7 +7,7 @@
 
 The **FindMyClothes** API is an AI-powered app, specifically designed to interactively and effectively improve users online shopping experience.
 
-<h1 align="center"><strong>Features:</strong></h1>h1>
+<h1 align="center"><strong>Features:</strong></h1>
 
 - **AI-Powered Analysis:** Utilizes OpenAI to extract and analyze clothing details from HTML.
 - **Web Scraping:** Automates the retrieval of product details using Selenium and BeautifulSoup.
@@ -21,7 +21,7 @@ The **FindMyClothes** API is an AI-powered app, specifically designed to interac
 - **usage of external API like *google search***
 
 - 
-<h1 align="center"><strong>additional info:</strong></h1>h1>
+<h1 align="center"><strong>additional info:</strong></h1>
 
 ### Ensure you have your environment variables set in a **.env file**
 ### Example of **.env** file:
@@ -29,7 +29,7 @@ OPENAI_API_KEY=your_openai_api_key
 GOOGLE_KEY=your_google_maps_api_key
 ACCESS_TOKEN=your_ipinfo_access_token
 
-<h1 align="center"><strong>contact:</strong></h1>h1>
+<h1 align="center"><strong>contact:</strong></h1>
 
 ### linkedIn: **xyz**
 
