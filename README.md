@@ -19,14 +19,14 @@ The **FindMyClothes** API is an AI-powered app, specifically designed to interac
 - 
 
 ## additional info:
-# Ensure you have your environment variables set in a **.env file**
-# Example of **.env** file:
+### Ensure you have your environment variables set in a **.env file**
+### Example of **.env** file:
 OPENAI_API_KEY=your_openai_api_key
 GOOGLE_KEY=your_google_maps_api_key
 ACCESS_TOKEN=your_ipinfo_access_token
 
 ## contact:
-# linkedIn: **xyz**
+### linkedIn: **xyz**
 
 
 ## this code is restricted from copy rights under the **LICENSE.txt** file!
