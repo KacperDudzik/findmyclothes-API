@@ -1,9 +1,4 @@
-# 
-**<p align="center" style="color:red;">
-    This text is centered and red!
-    </p>**
-
-# findmyclothes-API
+# **findmyclothes-API**
 
 ## welcome to my API project! Here you can find an optimized code for the 'FindMyClothes' API:
 
