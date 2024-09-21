@@ -1,4 +1,6 @@
-# **findmyclothes-API**
+<p align="center">
+# **FindMyClothes API**
+</p>
 
 ## welcome to my API project! Here you can find an optimized code for the 'FindMyClothes' API:
 
