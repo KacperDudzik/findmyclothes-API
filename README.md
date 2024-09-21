@@ -1,5 +1,5 @@
 <p align="center">
-# **FindMyClothes API**
+<h1> FindMyClothes API </h1>
 </p>
 
 ## welcome to my API project! Here you can find an optimized code for the 'FindMyClothes' API:
