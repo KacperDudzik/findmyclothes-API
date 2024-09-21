@@ -4,6 +4,8 @@
 ## welcome to my API project! Here you can find an optimized code for the 'FindMyClothes' API:
 
 ## overview of the project:
+<h1 align="center"><strong>overview of the project:</strong></h1>h1>
+
 The **FindMyClothes** API is an AI-powered app, specifically designed to interactively and effectively improve users online shopping experience.
 
 ## **Features**
@@ -30,4 +32,4 @@ ACCESS_TOKEN=your_ipinfo_access_token
 ### linkedIn: **xyz**
 
 
-## this code is restricted from copy rights under the **LICENSE.txt** file!
+### this code is restricted from copy rights under the **LICENSE.txt** file!
