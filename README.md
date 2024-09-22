@@ -36,6 +36,4 @@ ACCESS_TOKEN=your_ipinfo_access_token
 
 ### linkedIn: **xyz**
 
-
-### this code is restricted from copy rights under the **LICENSE.txt** file!
 <h1 align="center"><strong>this code is restricted from copy rights under the **LICENSE.txt** file!</strong></h1>
