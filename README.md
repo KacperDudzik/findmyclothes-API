@@ -24,11 +24,11 @@ The **FindMyClothes** API is an AI-powered app, specifically designed to interac
 
 <h1 align="center"><strong>Skills I Managed to Use in This Project:</strong></h1>
 
-* Web Scraping with Selenium and BeautifulSoup: Automating web browsing, handling dynamic content, and parsing HTML to extract relevant data.
-* Leveraging LLM Models (like OpenAI GPT-4): For analyzing and extracting information from HTML and images, including prompt engineering.
-* Integration of External APIs: Including Google Search API, IPinfo API for location services, and Google Maps API for finding stores.
-* Image Processing: Opening, displaying, and encoding images in base64 for transmission and analysis.
-* Error Handling and Data Validation: Ensuring robust script execution and accurate data processing.
+* **Web Scraping with Selenium and BeautifulSoup:** Automating web browsing, handling dynamic content, and parsing HTML to extract relevant data.
+* **Leveraging LLM Models (like OpenAI GPT-4):** For analyzing and extracting information from HTML and images, including prompt engineering.
+* **Integration of External APIs:** Including Google Search API, IPinfo API for location services, and Google Maps API for finding stores.
+* **Image Processing:** Opening, displaying, and encoding images in base64 for transmission and analysis.
+* **Error Handling and Data Validation:** Ensuring robust script execution and accurate data processing.
 
 <h1 align="center"><strong>additional info:</strong></h1>
 
