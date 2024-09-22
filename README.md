@@ -1,7 +1,6 @@
 <h1 align="center"><strong>FindMyClothes API</strong></h1>
 
-
-## welcome to my API project! Here you can find an optimized code for the 'FindMyClothes' API:
+### welcome to my API project! Here you can find an optimized code for the 'FindMyClothes' API:
 
 <h1 align="center"><strong>OVERVIEW OF THE PROJECT:</strong></h1>
 
