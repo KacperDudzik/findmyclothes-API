@@ -34,7 +34,20 @@ ACCESS_TOKEN=your_ipinfo_access_token
 
 <h1 align="center"><strong>CONTACT:</strong></h1>
 
-### linkedIn: **xyz**
+### linkedIn profile: **Kacper Dudzik**
+
+<h1 align="center"><strong>CODE EXPLANATION:</strong></h1>
+
+### ```python 
+def grace() ```
+
+<h1 align="center"><strong>USEFUL LINKS:</strong></h1>
+
+### [Link Text](https://example.com)
+
+<h1 align="center"><strong>PHOTOS OF RESULTS:</strong></h1>
+
+### ![Alt Text](https://example.com/image.png)
 
 <h1 align="center"><strong>FURTHER USAGE OF THE CODE:</strong></h1>
 
