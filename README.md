@@ -69,8 +69,11 @@ def get_valid_input(prompt, valid_responses):
 
 <h1 align="center"><strong>USEFUL LINKS:</strong></h1>
 
-### [Link Text](https://example.com)
-<a href="https://example.com">Click here to visit example.com</a>
+### [openai api]((https://platform.openai.com/docs/api-reference/introduction?lang=python))
+### [google search api](https://developers.google.com/webmaster-tools?hl=pl)
+### [IP location api](https://github.com/ipinfo/python)
+### [selenium documentation](https://www.selenium.dev/documentation/)
+### [string manipulation documentation](https://docs.python.org/3/library/string.html)
 
 <h1 align="center"><strong>PHOTOS OF RESULTS:</strong></h1>
 
