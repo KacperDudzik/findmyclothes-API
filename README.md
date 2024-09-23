@@ -34,11 +34,15 @@ ACCESS_TOKEN=your_ipinfo_access_token
 
 <h1 align="center"><strong>CONTACT:</strong></h1>
 
-### linkedIn profile: **Kacper Dudzik**
+### linkedIn profile: [Kacper Dudzik](https://www.linkedin.com/in/kacper-dudzik-b54480293/)
+### Instagram account: [Kacper Dudzik](https://www.linkedin.com/in/kacper-dudzik-b54480293/)
+### Twitter account: [Kacper Dudzik](https://www.linkedin.com/in/kacper-dudzik-b54480293/)
 
 <h1 align="center"><strong>CODE EXPLANATION:</strong></h1>
 
+HOW WOULD A **FUNCTION** AND PARTICULAR **CODE** EXPLANATION LOOK LIKE: 
 ```python
+# here we create an interactive function for user inputs
 def get_valid_input(prompt, valid_responses):
     response = input(prompt).strip()
     while response not in valid_responses:
