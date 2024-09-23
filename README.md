@@ -46,17 +46,24 @@ def get_valid_input(prompt, valid_responses):
         response = input(prompt).strip()
     return response
 ```
-THIS CODE REPRESENTS THE ...
+
+# Python Code in a Table
+
+| Function       | Description                 | Example Code                            |
+|----------------|-----------------------------|------------------------------------------|
+| `greet(name)`  | Prints a greeting message   | `print(f"Hello, {name}!")`               |
+| `add(a, b)`    | Returns the sum of `a` and `b` | `return a + b`                          |
+| `factorial(n)` | Computes factorial of `n`   | <code>def factorial(n):<br>&nbsp;&nbsp;&nbsp;&nbsp;if n == 0:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return 1<br>&nbsp;&nbsp;&nbsp;&nbsp;else:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return n * factorial(n-1)</code> |
 
 <h1 align="center"><strong>USEFUL LINKS:</strong></h1>
 
 ### [Link Text](https://example.com)
+<a href="https://example.com">Click here to visit example.com</a>
 
 <h1 align="center"><strong>PHOTOS OF RESULTS:</strong></h1>
 
 #### ![Alt Text](https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing7.jpg)
-
-<img src="(https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing7.jpg)" alt="Alt Text" width="300"/>
+<img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing7.jpg" alt="Project Logo" width="300"/>
 
 <h1 align="center"><strong>FURTHER USAGE OF THE CODE:</strong></h1>
 
