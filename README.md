@@ -45,19 +45,21 @@ HOW WOULD A **FUNCTION** AND PARTICULAR **CODE** EXPLANATION LOOK LIKE:
 # here we create an interactive function for user inputs
 def get_valid_input(prompt, valid_responses):
     response = input(prompt).strip()
-    while response not in valid_responses:
+    while response not in valid_responses: # till our input is not in the range of acceptable answers, then the loop is keep going
         print(f"Invalid choice! Please enter one of: {', '.join(valid_responses)}.")
         response = input(prompt).strip()
     return response
 ```
 
-# Python Code in a Table
+<h1 align="center"><strong>Some of the most important function distribution:</strong></h1>
 
-| Function       | Description                 | Example Code                            |
-|----------------|-----------------------------|------------------------------------------|
-| `greet(name)`  | Prints a greeting message   | `print(f"Hello, {name}!")`               |
-| `add(a, b)`    | Returns the sum of `a` and `b` | `return a + b`                          |
-| `factorial(n)` | Computes factorial of `n`   | <code>def factorial(n):<br>&nbsp;&nbsp;&nbsp;&nbsp;if n == 0:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return 1<br>&nbsp;&nbsp;&nbsp;&nbsp;else:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return n * factorial(n-1)</code> |
+| Function       | Description                                                                                      | Example Code                                                                                                                                                                                                                                                                   |
+|----------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `get_valid_input(prompt, valid_responses)` | Prompts the user for input and validates it against a list of acceptable responses. | <code>def get_valid_input(prompt, valid_responses):<br>&nbsp;&nbsp;&nbsp;&nbsp;response = input(prompt).strip()<br>&nbsp;&nbsp;&nbsp;&nbsp;while response not in valid_responses:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print(f"Invalid choice!")<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;response = input(prompt).strip()<br>&nbsp;&nbsp;&nbsp;&nbsp;return response</code> |
+| `webscraping_and_llm(web)` | Scrapes a webpage using Selenium and processes the HTML with an LLM to extract specific data.  | <code>def webscraping_and_llm(web):<br>&nbsp;&nbsp;&nbsp;&nbsp;options = Options()<br>&nbsp;&nbsp;&nbsp;&nbsp;options.add_argument("--lang=en")<br>&nbsp;&nbsp;&nbsp;&nbsp;driver = webdriver.Chrome(options=options)<br>&nbsp;&nbsp;&nbsp;&nbsp;driver.get(web)<br>&nbsp;&nbsp;&nbsp;&nbsp;# Further processing...</code> |
+| `check_link_validity(link)` | Validates a link by performing a search to confirm its accuracy and accessibility.  | <code>def check_link_validity(link):<br>&nbsp;&nbsp;&nbsp;&nbsp;driver = webdriver.Chrome(options=chrome_options)<br>&nbsp;&nbsp;&nbsp;&nbsp;driver.get('https://www.google.com')<br>&nbsp;&nbsp;&nbsp;&nbsp;search_box.send_keys(link)<br>&nbsp;&nbsp;&nbsp;&nbsp;# Further validation...</code> |
+| `encode_image(image_path)` | Encodes an image in base64 format, which is useful for embedding images in JSON. | <code>def encode_image(image_path):<br>&nbsp;&nbsp;&nbsp;&nbsp;with open(image_path, "rb") as image_file:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return base64.b64encode(image_file.read()).decode('utf-8')</code> |
+
 
 <h1 align="center"><strong>USEFUL LINKS:</strong></h1>
 
