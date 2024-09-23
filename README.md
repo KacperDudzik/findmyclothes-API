@@ -40,7 +40,8 @@ ACCESS_TOKEN=your_ipinfo_access_token
 
 ### 
 ```python fsfs(): 
-def grace() ```
+def grace()
+```
 
 <h1 align="center"><strong>USEFUL LINKS:</strong></h1>
 
