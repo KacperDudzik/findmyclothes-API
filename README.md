@@ -38,10 +38,15 @@ ACCESS_TOKEN=your_ipinfo_access_token
 
 <h1 align="center"><strong>CODE EXPLANATION:</strong></h1>
 
-### 
-```python fsfs(): 
-def grace()
+```python
+def get_valid_input(prompt, valid_responses):
+    response = input(prompt).strip()
+    while response not in valid_responses:
+        print(f"Invalid choice! Please enter one of: {', '.join(valid_responses)}.")
+        response = input(prompt).strip()
+    return response
 ```
+THIS CODE REPRESENTS THE ...
 
 <h1 align="center"><strong>USEFUL LINKS:</strong></h1>
 
