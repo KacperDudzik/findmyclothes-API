@@ -51,14 +51,20 @@ def get_valid_input(prompt, valid_responses):
     return response
 ```
 
-<h1 align="center"><strong>Some of the most important function distribution:</strong></h1>
+<h1 align="center"><strong>Explanation of the presented function :</strong></h1>
 
-| Function       | Description                                                                                      | Example Code                                                                                                                                                                                                                                                                   |
-|----------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `get_valid_input(prompt, valid_responses)` | Prompts the user for input and validates it against a list of acceptable responses. | <code>def get_valid_input(prompt, valid_responses):<br>&nbsp;&nbsp;&nbsp;&nbsp;response = input(prompt).strip()<br>&nbsp;&nbsp;&nbsp;&nbsp;while response not in valid_responses:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;print(f"Invalid choice!")<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;response = input(prompt).strip()<br>&nbsp;&nbsp;&nbsp;&nbsp;return response</code> |
-| `webscraping_and_llm(web)` | Scrapes a webpage using Selenium and processes the HTML with an LLM to extract specific data.  | <code>def webscraping_and_llm(web):<br>&nbsp;&nbsp;&nbsp;&nbsp;options = Options()<br>&nbsp;&nbsp;&nbsp;&nbsp;options.add_argument("--lang=en")<br>&nbsp;&nbsp;&nbsp;&nbsp;driver = webdriver.Chrome(options=options)<br>&nbsp;&nbsp;&nbsp;&nbsp;driver.get(web)<br>&nbsp;&nbsp;&nbsp;&nbsp;# Further processing...</code> |
-| `check_link_validity(link)` | Validates a link by performing a search to confirm its accuracy and accessibility.  | <code>def check_link_validity(link):<br>&nbsp;&nbsp;&nbsp;&nbsp;driver = webdriver.Chrome(options=chrome_options)<br>&nbsp;&nbsp;&nbsp;&nbsp;driver.get('https://www.google.com')<br>&nbsp;&nbsp;&nbsp;&nbsp;search_box.send_keys(link)<br>&nbsp;&nbsp;&nbsp;&nbsp;# Further validation...</code> |
-| `encode_image(image_path)` | Encodes an image in base64 format, which is useful for embedding images in JSON. | <code>def encode_image(image_path):<br>&nbsp;&nbsp;&nbsp;&nbsp;with open(image_path, "rb") as image_file:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return base64.b64encode(image_file.read()).decode('utf-8')</code> |
+| Function       | Description                                                                                      |
+|----------------|--------------------------------------------------------------------------------------------------|
+| `get_valid_input(prompt, valid_responses)` | Prompts the user for input and validates it against a list of acceptable responses. |
+| `webscraping_and_llm(web)` | Scrapes a webpage using Selenium and processes the HTML with an LLM to extract specific data. |
+| `check_link_validity(link)` | Validates a link by performing a search to confirm its accuracy and accessibility. |
+| `encode_image(image_path)` | Encodes an image in base64 format, which is useful for embedding images in JSON. |
+| `search_IP()` | Retrieves the user's location based on their IP address using the IPinfo API. |
+| `google_search_for_stores_in_shopping_mall()` | Performs a Google Places API search to find stores in a specified shopping mall. |
+| `selenium_with_google_search(keyword)` | Uses Selenium to perform a Google search for a keyword and retrieves relevant URLs. |
+| `convert_llm_response_to_accessible_list(llm_response)` | Converts the response from an LLM into a structured list format. |
+| `checking_validity_of_all_instances()` | Checks and validates the information obtained from an LLM, comparing it with reference values. |
+
 
 
 <h1 align="center"><strong>USEFUL LINKS:</strong></h1>
