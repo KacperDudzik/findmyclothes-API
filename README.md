@@ -63,11 +63,10 @@ def get_valid_input(prompt, valid_responses):
 <h1 align="center"><strong>PHOTOS OF RESULTS:</strong></h1>
 
 #### ![Alt Text](https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing7.jpg)
-<img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing7.jpg" alt="Project Logo" width="300"/>
 
 <div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing5.jpg" alt="Image 2" width="300"/>
     <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing7.jpg" alt="Project Logo" width="300"/>
-    <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing8.jpg" alt="Image 2" width="300"/>
     <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing9.jpg" alt="Image 3" width="300"/>
 </div>
 
