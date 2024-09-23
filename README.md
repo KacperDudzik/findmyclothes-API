@@ -54,7 +54,7 @@ THIS CODE REPRESENTS THE ...
 
 <h1 align="center"><strong>PHOTOS OF RESULTS:</strong></h1>
 
-### ![Alt Text](https://example.com/image.png)
+### ![Alt Text]([https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing7.jpg])
 
 <h1 align="center"><strong>FURTHER USAGE OF THE CODE:</strong></h1>
 
