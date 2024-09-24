@@ -80,9 +80,9 @@ def get_valid_input(prompt, valid_responses):
 <h1 align="center"><strong>PHOTOS OF RESULTS:</strong></h1>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/example%20photo%20input.jpg" alt="Image 2" width="300"/> 
-    <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/example%20user%20input.png" alt="Project Logo" width="300"/>
-    <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/example%20program%20output.png" alt="Image 3" width="300"/>
+    <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/example%20photo%20input.jpg" width="300"/> 
+    <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/example%20user%20input.png" width="300"/>
+    <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/example%20program%20output.png" width="300"/>
 </div>
 
 
