@@ -35,8 +35,6 @@ ACCESS_TOKEN=your_ipinfo_access_token
 <h1 align="center"><strong>CONTACT:</strong></h1>
 
 ### linkedIn profile: [Kacper Dudzik](https://www.linkedin.com/in/kacper-dudzik-b54480293/)
-### Instagram account: [Kacper Dudzik](https://www.linkedin.com/in/kacper-dudzik-b54480293/)
-### Twitter account: [Kacper Dudzik](https://www.linkedin.com/in/kacper-dudzik-b54480293/)
 
 <h1 align="center"><strong>CODE EXPLANATION:</strong></h1>
 
@@ -98,7 +96,7 @@ def get_valid_input(prompt, valid_responses):
 
 <h1 align="center"><strong>VIDEO GUIDANCE WITH EXPLANATION:</strong></h1>
 
-XYZ
+soon...
 
 <h1 align="center"><strong>FURTHER USAGE OF THE CODE:</strong></h1>
 
