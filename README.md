@@ -76,14 +76,27 @@ def get_valid_input(prompt, valid_responses):
 ### [selenium documentation](https://www.selenium.dev/documentation/)
 ### [string manipulation documentation](https://docs.python.org/3/library/string.html)
 
+
 <h1 align="center"><strong>PHOTOS OF RESULTS:</strong></h1>
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing5.jpg" alt="Image 2" width="300"/>
-    <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing7.jpg" alt="Project Logo" width="300"/>
-    <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing9.jpg" alt="Image 3" width="300"/>
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+    <div style="margin: 10px; text-align: center;">
+        <strong>EXAMPLE PHOTO INPUT:</strong><br>
+        <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing5.jpg" alt="Image 2" width="300"/>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <strong>EXAMPLE USER INPUT:</strong><br>
+        <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing7.jpg" alt="Project Logo" width="300"/>
+    </div>
+    <div style="margin: 10px; text-align: center;">
+        <strong>EXAMPLE PROGRAM OUTPUT:</strong><br>
+        <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing9.jpg" alt="Image 3" width="300"/>
+    </div>
 </div>
 
+<h1 align="center"><strong>VIDEO GUIDANCE WITH EXPLANATION:</strong></h1>
+
+XYZ
 
 <h1 align="center"><strong>FURTHER USAGE OF THE CODE:</strong></h1>
 
