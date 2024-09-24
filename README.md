@@ -67,8 +67,9 @@ def get_valid_input(prompt, valid_responses):
 
 
 
-<h1 align="center"><strong>USEFUL LINKS:</strong></h1>
+<h1 align="center"><strong>USEFUL LINKS FOR DOCUMENTATION:</strong></h1>
 
+**DOCUMENTATION:**
 ### [openai api](https://platform.openai.com/docs/api-reference/introduction?lang=python)
 ### [google search api](https://developers.google.com/webmaster-tools?hl=pl)
 ### [IP location api](https://github.com/ipinfo/python)
