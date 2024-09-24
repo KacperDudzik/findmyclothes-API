@@ -83,10 +83,12 @@ def get_valid_input(prompt, valid_responses):
     <strong>EXAMPLE PHOTO INPUT:</strong><br>
     <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/example%20photo%20input.jpg" alt="Image 2" width="300"/>
 </div>
+    
 <div style="text-align: center; margin-right: 10px;">
     <strong>EXAMPLE USER INPUT:</strong><br>
     <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/example%20user%20input.png" alt="Project Logo" width="650"/>
 </div>
+
 <div style="text-align: center;">
     <strong>EXAMPLE PROGRAM OUTPUT:</strong><br>
     <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/example%20program%20output.png" alt="Image 3" width="550"/>
