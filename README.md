@@ -96,26 +96,12 @@ def get_valid_input(prompt, valid_responses):
 
 
 
-
 <h1 align="center"><strong>PHOTOS OF RESULTS:</strong></h1>
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap;">
-
-<div style="text-align: center; margin-right: 10px;">
-    <strong>EXAMPLE PHOTO INPUT:</strong><br>
-    <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing5.jpg" alt="Image 2" width="300"/>
-</div>
-
-<div style="text-align: center; margin-right: 10px;">
-    <strong>EXAMPLE USER INPUT:</strong><br>
-    <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing7.jpg" alt="Project Logo" width="300"/>
-</div>
-
-<div style="text-align: center;">
-    <strong>EXAMPLE PROGRAM OUTPUT:</strong><br>
-    <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing9.jpg" alt="Image 3" width="300"/>
-</div>
-
+<div style="display: flex; justify-content: space-between;">
+    **EXAMPLE PHOTO INPUT:** <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing5.jpg" alt="Image 2" width="300"/>
+    **EXAMPLE USER INPUT:** <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing7.jpg" alt="Project Logo" width="300"/>
+    **EXAMPLE PROGRAM OUTPUT** <img src="https://github.com/KacperDudzik/findmyclothes-API/blob/main/test%20-%20clothing9.jpg" alt="Image 3" width="300"/>
 </div>
 
 
